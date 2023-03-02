@@ -11,6 +11,7 @@ from Backend.main import FormulaAlgorithm
 
 
 
+
 root = Tk()
 root.title('Aplikacja, żeby Harrierek nie musiał dużo szukać')
 root.geometry("1400x800")
